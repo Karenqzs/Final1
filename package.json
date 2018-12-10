@@ -1,0 +1,15 @@
+{
+  "name": "finalproject",
+  "version": "0.0.1",
+  "description": "my final project for computational practice 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ndjson": "^1.5.0"
+  }
+}
